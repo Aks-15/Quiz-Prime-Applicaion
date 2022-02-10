@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz Prime</string>
+    <string name="main_name">Start Quiz</string>
+    <string name="quiz_qustn"> 1. Boys are born with more fat cells than girls.</string>
+    <string name="quiz_score">Hello there,</string>
+    <string name="quiz_true">True</string>
+    <string name="quiz_zero">0</string>
+    <string name="quiz_false">False</string>
+    <string name="result_congo">Congratulation</string>
+    <string name="result_total">You have scored 10 out of 10</string>
+    <string name="result_retry">Retry Quiz</string>
+</resources>
+
